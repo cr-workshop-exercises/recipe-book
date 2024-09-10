@@ -18,3 +18,5 @@ for path in paths:
 
 if errors:
     sys.exit(1)
+
+print ("Check for new recipe :)")

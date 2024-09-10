@@ -1,0 +1,196 @@
+[33mcommit 9ce4dced2d2560ba6c7fa26e81fca3714ba3ba0f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Sun Sep 1 16:02:49 2024 +0200
+
+    clarify
+
+[33mcommit 0241b03e01daf95987b263bda06447f9db3b571b[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Wed Aug 21 13:32:09 2024 +0200
+
+    restore tests
+
+[33mcommit 4706ecbb64d431be9a78d9de1de8b7f00edf0f16[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Wed Jul 10 15:01:59 2024 +0200
+
+    simplify
+
+[33mcommit 155ef835b851013685157ade1c3fe089142a1e90[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Wed Jul 10 14:44:44 2024 +0200
+
+    add note about where to direct PRs to
+
+[33mcommit a8b1aff822bb6c50c59cc3c58a57203e681b2153[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Wed Jul 10 14:41:33 2024 +0200
+
+    more robust automatic test
+    
+    Co-authored-by: Richard Darst <rkdarst@users.noreply.github.com>
+
+[33mcommit 9c5559a006d2ae8aaed6eca1a2b61b6134f2a863[m
+Author: Richard Darst <rkd@zgib.net>
+Date:   Wed Mar 13 18:23:01 2024 +0200
+
+    Add basic recipe checks
+
+[33mcommit 990cea4dc71f7f222299845ffba039b97c6d2f3b[m
+Author: Richard Darst <rkd@zgib.net>
+Date:   Wed Mar 13 18:22:10 2024 +0200
+
+    sides/poke: Add instructions to recipe
+
+[33mcommit 554c187a054d20727471d8b6675744ea3f31124d[m
+Merge: 8bcb766 89d5ef9
+Author: Riley Johnson <riley.johnson@example.org>
+Date:   Wed Mar 6 20:25:54 2024 +0100
+
+    Merge branch 'alex/fruit-salad'
+
+[33mcommit 8bcb7662b16924476b84abd05ca15c9e8168c606[m
+Author: Riley Johnson <riley.johnson@example.org>
+Date:   Wed Mar 6 20:25:34 2024 +0100
+
+    a todo note to not forget the instructions
+
+[33mcommit 89d5ef9b8296b57c29c734b7c5288a643e85eb8f[m
+Author: Alex Smith <alex.smith@example.org>
+Date:   Wed Mar 6 20:22:55 2024 +0100
+
+    fruit salad: instructions
+
+[33mcommit 3bd2468fcd2719559a6e4c569aac351d75ee5d8b[m
+Author: Alex Smith <alex.smith@example.org>
+Date:   Wed Mar 6 20:22:40 2024 +0100
+
+    fruit salad: ingredients
+
+[33mcommit b950c5ca697eefa6c0ca6a81e7c6983a89d971bd[m
+Author: Casie Yamamoto <casie.yamamoto@example.org>
+Date:   Wed Mar 6 19:25:41 2024 +0100
+
+    just fixing capitalization
+
+[33mcommit d18035ebcd9726933594bb60e21e4073cb1e3aac[m
+Author: Casie Yamamoto <casie.yamamoto@example.org>
+Date:   Wed Mar 6 19:22:44 2024 +0100
+
+    fix formatting
+
+[33mcommit 7051ccac5e5264cb1627d886670aae1c30905c18[m
+Author: Jamie Garcia <jamie.garcia@example.org>
+Date:   Wed Mar 6 19:19:34 2024 +0100
+
+    add some cilantro
+
+[33mcommit ae19e812c4f6a722574c26915ade3e3630c93aa5[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:25:30 2024 +0100
+
+    add categories for easier browsing
+
+[33mcommit a6fe62967cc5da51d9e9939b3407b5bb19792d9c[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:25:20 2024 +0100
+
+    we also need salad
+
+[33mcommit 30b89c452a598c0a23d192c0018558612476bfa6[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:21:00 2024 +0100
+
+    document what this is about
+
+[33mcommit fd12dc1665e1a7565589defe0b7254afcc21ded8[m
+Merge: 1e5a24a 7753d43
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:19:52 2024 +0100
+
+    Merge branch 'radovan/lasagna'
+
+[33mcommit 1e5a24a570d3878133d8e80fc3a4a0dcd4b428ab[m
+Merge: 9500901 5aa6687
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:19:44 2024 +0100
+
+    Merge branch 'radovan/poke'
+
+[33mcommit 95009019df7e86a3770345bc096ec149d1da0e97[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:19:18 2024 +0100
+
+    a classic pumpkin pie recipe - yum!
+
+[33mcommit 34ce93970caf1dde911c0e96af540f51e3e9b8f1[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:18:54 2024 +0100
+
+    drafting a recipe for a pasta, so far only ingredients
+
+[33mcommit 28e5f2606ecd9df7dca61a027ae9ede347e2e022[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:18:43 2024 +0100
+
+    recipe for a mushroom soup
+
+[33mcommit 7753d434d6ec3240bfafb739a51c9ea4b35924f4[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:18:11 2024 +0100
+
+    vegetarian lasagna: instructions
+
+[33mcommit aa0473e47e2ff466d22d6b1b05dd26d4cbdd5895[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:16:38 2024 +0100
+
+    vegetarian lasagna: ingredients
+
+[33mcommit 5aa6687368bca0feff034647693bc26bb378e897[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:14:52 2024 +0100
+
+    oh no! forgot onion - adding
+
+[33mcommit cc84e4f8982d021486c79f950a0d0f3530dcfa59[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:14:34 2024 +0100
+
+    working on a poke recipe
+
+[33mcommit a5509634d0c683482b6ba4e14145246da0cd4cc4[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 17:55:15 2024 +0100
+
+    reduce amount of salt
+
+[33mcommit f2d6d58d9ea34c9070f2963f152a29f4c0f4b7da[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 17:54:32 2024 +0100
+
+    don't forget to enjoy
+
+[33mcommit 1fde0642ec230f624b72cc69ff2907087b0d210c[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 17:53:51 2024 +0100
+
+    add half an onion
+
+[33mcommit 4c1873eeb0d0c702bb500946d657184079dbdab2[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 17:52:56 2024 +0100
+
+    drafting a guacamole recipe
+
+[33mcommit 299244344aca7983ced477e99c5f856c6ae48c5d[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 17:52:20 2024 +0100
+
+    this will be licensed under CC0
+
+[33mcommit 084a1eaf44e41bd14a064937f298cbe89e06e636[m
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 17:52:01 2024 +0100
+
+    starting with an almost empty readme

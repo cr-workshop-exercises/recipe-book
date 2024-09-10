@@ -8,6 +8,8 @@
 - peas
 - mushrooms
 - onions
+- a lot of water
+- salt
 
 
 ## Instructions

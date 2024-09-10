@@ -1,0 +1,7 @@
+# Frozen Yogurt for Dogs
+
+- Take 100 ml of yogurt and spread it on a plate.
+- Freeze the yogurt for 1 day.
+
+# Serving instructions. 
+- Take out the yogurt for 10 minutes before serving. 

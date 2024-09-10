@@ -8,6 +8,7 @@
 - peas
 - mushrooms
 - onions
+- garlic
 
 
 ## Instructions

@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 1 tomato
+- 1-2 tomato
 - 1-2 shallots
 - 1-2 limes
 - 1 bundle of cilantro
@@ -11,7 +11,7 @@
 
 ## Instructions
 
-- Cut the tomato into small bits
+- Cut the tomatos open, remove the slimy parts and cut the tomato into small bits
 - Cut the shallots into even smaller bits
 - mix tomato and shallots
 - add lime juice until your tounge curls when tasting

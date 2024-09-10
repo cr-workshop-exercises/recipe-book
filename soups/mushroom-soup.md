@@ -1,6 +1,3 @@
-# Mushroom soup recipe by Joe Bastianich
-
-
 ## Ingredients
 
 - **1 lb** (450g) mixed mushrooms (e.g., button, cremini, shiitake), cleaned and sliced

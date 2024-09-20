@@ -16,4 +16,4 @@ When butter is room temp, mix them togehter, then add on top
 5 tbsp cinnamon
 
 ## Instructions, second step
-Eat until happy
+Eat, but don't be happy

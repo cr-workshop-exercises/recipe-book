@@ -8,13 +8,13 @@
 - 1 chopped onion
 - 2 TBSP minced garlic
 - 1 tsp each of salt and pepper
-- 1/2 tsp cayenne
-- 4 tsp chili powder
+- 1/2 tbsp cayenne
+- 4 tbsp chili powder
 - 2 tsp each of cumin and dried cilantro
 - 1 1/2 cups of beef broth
 - White corn tortillas
 - 1 tbsp oil
-- Shredded Monterey Jack cheese
+- Shredded velveta cheese
 - Taco Toppings sour cream, Pico de Gallo, taco sauce, shredded lettuce
 
 ## Instructions

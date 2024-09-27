@@ -8,6 +8,7 @@
 - eggs
 - black pepper
 - pecorino romano
+- cheeze
 
 
 ## Instructions
@@ -17,3 +18,5 @@
 - separate yolk and egg whites, put some pecorino cheese, and black pepper, beat them
 - combine cooked guanciale with spagetti and the yolk mixture
 - enjoy
+
+

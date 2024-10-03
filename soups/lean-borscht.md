@@ -35,3 +35,6 @@
    - Turn off the heat and leave the finished borscht to infuse for 15-20 minutes.
    - Alternatively, place it in the oven at 180 degrees for the same time.
    - Optionally, put it in the fridge to serve it the next day. Grandma says it's richer that way! 
+
+**Serving suggestion:**
+   - Grill some bread to form crust, take a cleaned clove of garlic, and scratch the crust with the garlic. You can either rub just the edges for some fine aroma, or use all the top surface as a grating for rich garlic taste.

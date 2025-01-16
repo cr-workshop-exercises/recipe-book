@@ -1,7 +1,0 @@
-this is the beginning of the file, and should always appear
-1
-this is a change you should not add in
-2
-this is a change you should add in
-3
-this line should appear on the remote branch

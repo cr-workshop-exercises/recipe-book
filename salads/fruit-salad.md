@@ -5,6 +5,7 @@
 
 - 1 cup strawberries, hulled and halved
 - 1 cup blueberries
+- 1 cup raspberries
 - 1 cup grapes, halved
 - 1 banana, sliced
 - 1 apple, cored and chopped

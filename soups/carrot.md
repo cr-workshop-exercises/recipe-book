@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- Carrot
+- Carrot and potato
 - Onion
 - Cillantro
 

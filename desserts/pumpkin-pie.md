@@ -24,7 +24,6 @@
 
 ## Instructions
 
-- Mix dry ingredients
 - Add pumpkin pulp
 - Smash manually until somehow homogeneous
 - Add eggs and blend

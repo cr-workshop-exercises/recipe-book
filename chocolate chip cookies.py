@@ -3,7 +3,7 @@ Ingredients
 2¼ cups all-purpose flour
 1 tsp baking soda
 1 tsp salt
-1 cup (2 sticks) butter, softened
+2 cup (4 sticks) butter, softened
 ¾ cup granulated sugar
 ¾ cup packed brown sugar
 1 tsp vanilla extract

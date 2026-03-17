@@ -8,5 +8,5 @@
 
 ## Instructions
 
-- Step 1
+- Step 1 Add water
 - Step 2

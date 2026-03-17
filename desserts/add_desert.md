@@ -3,7 +3,9 @@
 
 Ingredients:
 
-
+Milk
+Flour
+Sugar
 
 Instructions:
 

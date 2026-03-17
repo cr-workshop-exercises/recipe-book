@@ -4,7 +4,7 @@
 ## Ingredients
 
 - rigatoni
-- pancetta
+- ~~pancetta~~ tofu ❤️
 - peas
 - mushrooms
 - onions

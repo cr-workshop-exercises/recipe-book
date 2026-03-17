@@ -16,3 +16,12 @@ towards the template repository.
 - [mains](mains)
 - [sides](sides)
 - [desserts](desserts)
+
+## AI statement
+All my homies hate chatgpt.
+
+It is the correct opinion.
+
+It needs to burn.
+
+Just not the planet.

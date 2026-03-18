@@ -12,4 +12,4 @@
 
 ## Instructions
 
-TODO: these are missing
+TODO: these are still missing

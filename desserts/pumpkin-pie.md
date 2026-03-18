@@ -19,6 +19,8 @@
 - 2 tsp cinnamon
 - 1 tsp ginger, ground or juice
 - 0.5 tsp ground cloves
+- semillas de sesamo
+- semillas de ajonjoli
 - 2 eggs
 
 
@@ -29,6 +31,8 @@
 - Smash manually until somehow homogeneous
 - Add eggs and blend
 - Add evaporated milk and blend
+- adicione las semillas
+- revolver mucho
 
 
 ## Baking

@@ -18,4 +18,6 @@
 
 3. **Add eggs:**
    - Stir grated potatoes and eggs in a bowl until the mixture is uniform.
+4. **Fry the pancakes**
+   - Take a handful of the mixture, squeeze out extra liquid and put on a pan.
 

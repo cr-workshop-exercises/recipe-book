@@ -3,7 +3,7 @@
 
 ## Ingredients
 
-- **9-12** no-boil lasagna noodles
+- **9-20** no-boil lasagna noodles
 - **1** large jar (about 24 oz) of marinara sauce
 - **15 oz** ricotta cheese
 - **1** egg

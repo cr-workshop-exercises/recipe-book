@@ -5,7 +5,6 @@
 
 - **4 cups** mixed greens (such as arugula, spinach, and romaine)
 - **1/2 cup** cherry tomatoes, halved
-- **1/4 cup** sliced cucumbers
 - **14 cup** shredded carrots
 - **1/4 cup** toasted nuts (almonds, walnuts, or pecans), optional
 - **1/4 cup** crumbled feta or goat cheese, optional
@@ -28,7 +27,7 @@
      aside.
 
 2. **Assemble the Salad:**
-   - In a large bowl, combine the mixed greens, cherry tomatoes, sliced cucumbers, and shredded carrots.
+   - In a large bowl, combine the mixed greens, cherry tomatoes, and shredded carrots.
    - If using, add the toasted nuts and crumbled cheese to the bowl.
 
 3. **Dress the Salad:**

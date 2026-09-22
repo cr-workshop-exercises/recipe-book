@@ -5,6 +5,7 @@
 - Almonds
 - Cashew
 - Walnut
+- Brazil nut
 
 
 ## Instructions

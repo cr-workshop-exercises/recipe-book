@@ -3,9 +3,9 @@
 
 ## Ingredients
 
-- 8 potatoes
-- 4 eggs
-- 1 white onion
+- **8** potatoes
+- **4** eggs
+- **1** white onion
 - Olive oil
 - Salt and pepper
 

@@ -1,4 +1,4 @@
-# Guacamole recipe
+# Guacamole recipe updated niname
 
 
 ## Ingredients
@@ -8,7 +8,7 @@
 - 1 lime
 - 1 tsp salt
 - 1/2 onion
-- 1 Tbsp cilantro
+deleted cilantro ( edit)
 
 
 ## Instructions

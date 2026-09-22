@@ -1,7 +1,7 @@
 # Garlic Butter Mushroom
 ## Ingredients for Garlic Butter Mushrooms
 
-    -Mushrooms: Use a pound of cremini mushrooms, also called baby bellas, which have more flavor than white button mushrooms.
+    -Mushrooms: Use 2 pounds of cremini mushrooms, also called baby bellas, which have more flavor than white button mushrooms.
     -Oil: I toss the mushrooms in extra-virgin olive oil.
     -Salt and pepper season the creminis. The salt also helps draw out the moisture from the mushrooms.
     -Butter: This mushroom recipe calls for unsalted butter. If you use salted, add less salt.

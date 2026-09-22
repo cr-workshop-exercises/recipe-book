@@ -5,7 +5,7 @@
 - Icing-Sugar 3tbs
 - Vanilla extract 1 tsp
 - Berries
-- crushed biscuits
+- crushed biscuits - around 3/ portion
 
 ## Instructions
 - Mix cream cheese, sugar and vanilla extract together

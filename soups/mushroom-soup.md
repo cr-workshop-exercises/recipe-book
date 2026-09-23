@@ -1,4 +1,4 @@
-# Mushroom soup recipe
+# Tasty Mushroom soup recipe
 
 
 ## Ingredients

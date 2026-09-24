@@ -2,9 +2,10 @@
 
 ## Ingredients
 - Oats
-- eggs
 - milk
+- Salt
 
 ## instructions
 - combine ingredients
 - boil
+- salt to taste

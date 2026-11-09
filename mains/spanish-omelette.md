@@ -6,6 +6,7 @@
 - **8** potatoes
 - **4** eggs
 - **1** white onion
+- **1/4** cup mashroom
 - Olive oil
 - Salt and pepper
 

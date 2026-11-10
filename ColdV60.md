@@ -4,13 +4,15 @@
 
 - coffee
 - water
+- ice
 
 
 ## Instructions
 
 - boils the water to 88C
-- wit your filter
+- wet your filter
 - put the coffee on the filter
+- put ice 150 grams
 - turn on the balance machine in mil
 - make sure it is at Zero
 - put 50 mil of the hot water and wait for 30 seconds

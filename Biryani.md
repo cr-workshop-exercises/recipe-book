@@ -1,1 +1,1 @@
-Biryanai
+Biryani

@@ -35,3 +35,10 @@
 
 - 15 min at 425 F
 - 40-50 min at 350 F
+
+## Caramel Sauce
+
+- Take heavy bottom pan, add sugar and water drops. Put on light flame.
+- Wait until sugar melts and changed to ombre colour. Do not stir with spoon.
+- Now add butter and room temperature cream. Mix i well and close the flame.
+- Serve with pumpkin pie.
